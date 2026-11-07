@@ -3,7 +3,7 @@ title: "AIで仕事は回る。では、私たちはどこで育つのか"
 emoji: "🌱"
 type: "idea"
 topics: ["ai", "career", "claudecode", "llm"]
-published: false
+published: true
 ---
 
 ## はじめに
